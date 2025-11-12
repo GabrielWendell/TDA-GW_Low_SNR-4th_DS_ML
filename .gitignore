@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data
+data/
+results/
+*.npy
+*.npz
+*.csv
+*.zip
+*.tar.gz
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment
+.env/
+venv/
